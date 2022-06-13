@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="95335ff4-2a51-464f-a354-f25f0abc5623" name="trainhtml.codewares.ipower.com" url="https://trainhtml.codewares.com/">
+        <fileTransfer rootFolder="/public_html/_train/_html" accessType="SFTP" host="ftp.codewares.com" port="2222" sshConfigId="e43905d9-0380-4412-93cc-f5d067d513a4" sshConfig="john-codewares-com@ftp.codewares.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
